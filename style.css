@@ -7,7 +7,7 @@ body {
 div {
   width: 700px;
   margin: auto;
-  font-family: "Helverica Neue";
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
   background: white;
   padding: 30px;
 }
